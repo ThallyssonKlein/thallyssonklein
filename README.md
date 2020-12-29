@@ -1,5 +1,6 @@
 ![](./entj.png)
 # Thallysson Klein
+![](https://komarev.com/ghpvc/?username=thallyssonklein)
 
 > I am a professional driven by purpose (Ikigai). My purpose is to "Solve the most complex problems that exist". This is a constant, it is not an end road, because problems will always exist. That purpose is the basis for every decision I make.
 
